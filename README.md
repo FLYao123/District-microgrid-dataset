@@ -1,4 +1,4 @@
-This is an integrated district dataset which is main from Chong Aih’s MSc project, accessible on Github [1]. This open dataset contains hourly load, market price and PV generation data of a microgrid in US. Also, the hourly carbon intensity data is from [2] with some modifications, which provides some carbon emission and intensity information related to the US electricity system. Some necessary operations (such as scaling and cleaning) have also been performed on the two datasets. 
+This is an integrated district dataset which is main from Chong Aih’s MSc project, accessible on Github [1]. This open dataset contains hourly load, market price and PV generation data of a microgrid in US. Also, the hourly carbon intensity data is from [2], which provides some carbon emission and intensity information related to the US electricity system. Some necessary operations (such as scaling and cleaning) have also been performed on the two datasets. 
 
 
 Reference:
